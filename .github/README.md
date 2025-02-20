@@ -11,13 +11,19 @@
 ├── BasicScriptingImages
 │   ├── Basic_I_O_Scripting_(Images).ipynb
 │   ├── Resources
+│   ├── Notebook PDF
 │   └── README
 ├── BasicScriptingVideos
 │   ├── Basic_I_O_Scripting_(Videos).ipynb
 │   ├── Scripts/Snippets
 │   ├── Resources
+│   ├── Notebook PDF
 │   └── README
 ├── EdgeContourDetection
+│   ├── Activity_4_Edge_and_Contour_Detection.ipynb
+│   ├── Resources
+│   ├── Notebook PDF
+│   └── README
 ├── FaceDetectionOCV
 ├── FaceRecog
 └── LineCircleDetection
