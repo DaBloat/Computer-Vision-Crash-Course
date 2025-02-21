@@ -40,4 +40,8 @@
 │   ├── Notebook PDF
 └── └── README
 ```
+
+## Summary
+In this set of activities, I use the combination of Python and OpenCV to equip mylself with practical skills in computer vision. From basic image and video processing to advanced face detection and recognition, these activities cover a broad range of essential techniques used in modern computer vision applications. Each module emphasizes the power of Python in handling image and video data, along with the OpenCV library for real-time and offline processing. this can be more helpful in the future and the field of data science since Image is also considered as data can can be stored, manipulated, and appy to all of the possible fields that can apply data analysis, engineering and model creation.
+
 <p align="center"><b>Disclaimer: This Repository is for Educational and Student activity Compliance Purposes Only</b></p>
