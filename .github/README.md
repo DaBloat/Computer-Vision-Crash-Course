@@ -30,10 +30,10 @@
 │   ├── Notebook PDF
 │   └── README
 ├── FaceRecog
-└── LineCircleDetection
+├── LineCircleDetection
 │   ├── Activity_6_Face_Detection_using_OpenCV.ipynb
 │   ├── Resources & XML's
 │   ├── Notebook PDF
-│   └── README
+└── └── README
 ```
 <p align="center"><b>Disclaimer: This Repository is for Educational and Student activity Compliance Purposes Only</b></p>
