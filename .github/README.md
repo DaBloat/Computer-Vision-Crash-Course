@@ -27,5 +27,9 @@
 ├── FaceDetectionOCV
 ├── FaceRecog
 └── LineCircleDetection
+│   ├── Activity_5_Line_and_Circle_Detection.ipynb
+│   ├── Resources
+│   ├── Notebook PDF
+│   └── README
 ```
 <p align="center"><b>Disclaimer: This Repository is for Educational and Student activity Compliance Purposes Only</b></p>
