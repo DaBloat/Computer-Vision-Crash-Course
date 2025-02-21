@@ -25,10 +25,14 @@
 │   ├── Notebook PDF
 │   └── README
 ├── FaceDetectionOCV
+│   ├── Activity_4_Edge_and_Contour_Detection.ipynb
+│   ├── Resources
+│   ├── Notebook PDF
+│   └── README
 ├── FaceRecog
 └── LineCircleDetection
-│   ├── Activity_5_Line_and_Circle_Detection.ipynb
-│   ├── Resources
+│   ├── Activity_6_Face_Detection_using_OpenCV.ipynb
+│   ├── Resources & XML's
 │   ├── Notebook PDF
 │   └── README
 ```
