@@ -30,6 +30,10 @@
 │   ├── Notebook PDF
 │   └── README
 ├── FaceRecog
+│   ├── Activity_7_Performing_Face_Recognition.ipynb
+│   ├── Resources
+│   ├── Notebook PDF
+│   └── README
 ├── LineCircleDetection
 │   ├── Activity_6_Face_Detection_using_OpenCV.ipynb
 │   ├── Resources & XML's
